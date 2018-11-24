@@ -1,5 +1,5 @@
 
-Demonstrating Git Capabilities
+Decent Demonstrating Git Capabilities
 
 Todo: Need to add branching strategy
 
